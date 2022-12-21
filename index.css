@@ -93,3 +93,18 @@ form .drop-list{
     margin-top: 30px;
     font-size: 22px;
 }
+form .exchange-rate{
+font-size: 17px;
+margin: 20px 0 30px;
+}
+form button{
+height: 52px;
+color: #fff;
+font-size: 17px;
+cursor: pointer;
+background: #675AFE;
+transition: 0.3s ease;
+}
+form button:hover{
+background: #4534fe;
+}
