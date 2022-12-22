@@ -20,6 +20,7 @@ The Currency Converter App is an application that allows the user to convert any
 
 The live app is continously deployed here. 
 * [Live App](https://edgenortheastern.github.io/dan-m-dec22/)
+
 Continuous deployment is a strategy or methodology for software releases where any new code update or change made through the rigorous automated test process is deployed directly into the live production environment, where it will be visible to customers.
 
 
