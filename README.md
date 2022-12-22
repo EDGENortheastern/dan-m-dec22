@@ -7,6 +7,9 @@ For Northeastern University
 
 ## About
 
+Author: Daniel Mayers 
+GitHub Username: @dmayers96
+
 ![App screenshot](https://user-images.githubusercontent.com/120668199/209124042-18b14002-5e21-48ce-a7b6-30d07aa7d13a.png)
 
 The Currency Converter App is an application that allows the user to convert any amount of currency to another currency of their choice. The input field cannot be left blank or have 0 as the amount, the value of 1 will be filled automatically in the input field. This app uses exchange rates that are updated on a daily basis via an API, so the conversion calculations are accruate. Below are some key features I aim to display:
@@ -18,10 +21,14 @@ The Currency Converter App is an application that allows the user to convert any
 
 # Deployed App
 
-The live app is continously deployed here. 
+The live app is continously deployed here on a GitHub page. 
 * [Live App](https://edgenortheastern.github.io/dan-m-dec22/)
 
-Continuous deployment is a strategy or methodology for software releases where any new code update or change made through the rigorous automated test process is deployed directly into the live production environment, where it will be visible to customers.
+Throughout this apps development I used continuous intergration and continuous deployment.
+
+Continuous Intergration
+
+Continuous Deployment is a strategy or methodology for software releases where any new code update or change made through the rigorous automated test process is deployed directly into the live production environment, where it will be visible to customers.
 
 
 # Project Management
@@ -101,15 +108,18 @@ The best practices rating of 100 suggests that the online apps design is simple 
 
 The search engine optimisation (SEO) rating of 92 suggests that the online app design attracts higher quality internet traffic and traffic will be directed to the website naturally without having to advertise it.
 
-
 ![Lighthouse screenshot](https://user-images.githubusercontent.com/120668199/209191813-c799bff4-47ff-4514-8d38-01c99a7188a1.PNG)
 
-
-
-
-# Stakeholder Interactions
+## Prototype Design A/B Testing
 
 [User feedback form for design](https://docs.google.com/forms/d/e/1FAIpQLSc_W1E3jBh4tGIBv63l-5Ta9mwhvn8a4ZWe4JDVmWaEYRZEvw/viewform)
 
+Please see the link to view the two prototypes that I designed in Figma and tested with end-users. To carry out the A/B testing, I used google forms to create a survey that gets circulated to my potential users so that I can interact with my stakeholders and get their opinion. I have displayed both the designs and have attached questions to each design asking the user what design they prefer. The design with most votes from this test will be the user interface design that I will use in my project.
+
+I went with the first design over the second, as this was prefered by the users.
+
+## Unit Tests using Jest
+
+ADD IN SECION ON TESTING HERE
 
 # Design Evaluation
