@@ -66,7 +66,8 @@ I have continuously ensured that the code is easily readable and understandable,
 
 ## Design
 
-[Link to Figma Prototype](https://www.figma.com/proto/jSQexl4OPatKZwGQIM7ZG3/Currency-Converter-App?node-id=6%3A20&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A12&show-proto-sidebar=1)
+[Figma Prototype](https://www.figma.com/proto/jSQexl4OPatKZwGQIM7ZG3/Currency-Converter-App?node-id=6%3A20&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A12&show-proto-sidebar=1)
+
 I designed my protopye using Figma. This software helped me design my app with ease as it is intuitive and user friendly, allows for designers and non-designers to use the sofwtare and is fun to use. By designing and agreeing on a User interface before implementation reducing costs and the need for change further down the line.
 By designing a prototype first it lets me decide on the best design for this app taking users opinions into consideration. I have created two prototype designs that I will include in a survey to users about what they prefer.
 
