@@ -27,10 +27,10 @@ I ensured that one requirmeent relates to one ticket that has one feature corres
 
 
 # Code and Design
-Repo name: dan-m-dec22
-Repo link: https://github.com/EDGENortheastern/dan-m-dec22
-Exchange rate API link: https://www.exchangerate-api.com/
-Country flags API link: 
+* Repo name: dan-m-dec22
+* Repo link: https://github.com/EDGENortheastern/dan-m-dec22
+* Exchange rate API link: https://www.exchangerate-api.com/
+* Country flags API link: 
 
 ## Files within this project
 * index.js
@@ -48,9 +48,7 @@ Country flags API link:
 6. To enable swapping the currency codes, I just reversed the 'from' currency to 'to' currency and then called the function. For flags, I used countryflags.io API to show the user-selected country flag.
 
 ## Coding Practice
-I have continuously ensured that the code is easily readable and understandable, whilst still maintaining the correct naming conventions; by using the camelCase practice throughout the javascript files. On top of this, I have made sure that all lines are correctly indented, ensuring that any other programmer can read and understand the code. Furthermore, the code also has comments in plain English on every line of code to ensure that anyone can understand what is happening at every step of the code.
-
-## camelCase and comments
+I have continuously ensured that the code is easily readable and understandable, whilst still maintaining the correct naming conventions; by using the camelCase practice throughout the javascript files. On top of this, I have made sure that all lines are correctly indented, ensuring that any other programmer can read and understand the code. Furthermore, the code also has comments in plain English on every line of code to ensure that anyone can understand what is happening at every step of the code. See below for an example of this.
 ![image](https://user-images.githubusercontent.com/120668199/209159379-42f42628-59c9-4df2-927a-90966086adef.png)
 
 
