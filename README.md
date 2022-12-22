@@ -113,7 +113,7 @@ The search engine optimisation (SEO) rating of 92 suggests that the online app d
 
 ## Prototype Design A/B Testing
 
-[User feedback form for design](https://docs.google.com/forms/d/e/1FAIpQLSc_W1E3jBh4tGIBv63l-5Ta9mwhvn8a4ZWe4JDVmWaEYRZEvw/viewform)
+[User feedback form](https://docs.google.com/forms/d/e/1FAIpQLSc_W1E3jBh4tGIBv63l-5Ta9mwhvn8a4ZWe4JDVmWaEYRZEvw/viewform)
 
 Please see the link to view the two prototypes that I designed in Figma and tested with end-users. To carry out the A/B testing, I used google forms to create a survey that gets circulated to my potential users so that I can interact with my stakeholders and get their opinion. I have displayed both the designs and have attached questions to each design asking the user what design they prefer. The design with most votes from this test will be the user interface design that I will use in my project.
 
@@ -127,7 +127,7 @@ ADD IN SECION ON TESTING HERE
 
 ## Continous Intergration testing
 
-Everytime I commit and push code changes GitHub runs Continuous Intergration tests and provides the results of each test in the pull request, allowing me to see whether the change in my branch introduces an error. When all Continuous Intergration tests in a workflow pass, the changes I have pushed are ready to be reviewed by a team member or merged. When a test fails, one of your changes may have caused the failure. This ensure that code changes are accruate and dont cause any errors wen intergrating into the existing code base.
+When I commit and push code changes GitHub runs Continuous Intergration tests and provides the results of each test in the pull request, allowing me to see whether the change in my branch introduces an error. When all Continuous Intergration tests in a workflow pass, the changes I have pushed are ready to be reviewed by a team member or merged. When a test fails, one of your changes may have caused the failure. This ensure that code changes are accruate and dont cause any errors wen intergrating into the existing code base.
 
 
 
