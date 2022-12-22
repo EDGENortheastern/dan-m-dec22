@@ -66,7 +66,7 @@ I ensured that one requirmeent relates to one ticket that has one feature corres
 I have continuously ensured that the code is easily readable and understandable, whilst still maintaining the correct naming conventions; by using the camelCase practice throughout the javascript files. On top of this, I have made sure that all lines are correctly indented, ensuring that any other programmer can read and understand the code. Furthermore, the code also has comments in plain English on every line of code to ensure that anyone can understand what is happening at every step of the code. See below for an example of this.
 ![image](https://user-images.githubusercontent.com/120668199/209159379-42f42628-59c9-4df2-927a-90966086adef.png)
 
-## Design
+## User Interface Design
 
 [Figma Prototype](https://www.figma.com/proto/jSQexl4OPatKZwGQIM7ZG3/Currency-Converter-App?node-id=6%3A20&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A12&show-proto-sidebar=1)
 
