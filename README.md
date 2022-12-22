@@ -10,9 +10,14 @@ The Currency Converter App is an application that allows the user to convert any
 * User can switch the conversion by selecting the arrow inbetween the to and from box
 * A clickable button that displays the conversion amount
 
-# Environment
+# Deployed App
 The live app can be accessed here.
 * [Live App](https://edgenortheastern.github.io/dan-m-dec22/)
+
+# Project Management
+![Project Management screenshot](https://user-images.githubusercontent.com/120668199/209140982-5375d2f5-de66-49d9-911f-beeca345adaf.png)
+To manage my project I used GitHub's Project Tracker. It allows me to use the Kanban methodology to manage issues and maintain a workflow where I could continuously improve, visualise my workflow on a regular basis and sort tasks in order of priority. I used this technique to compliment my agile way of working, which is an iterative approach to software development that emphasizes flexibility, interactivity, and a high level of transparency.
+
 
 
 # Code and Design
