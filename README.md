@@ -29,6 +29,8 @@ Continuous deployment is a strategy or methodology for software releases where a
 ![Project Management screenshot](https://user-images.githubusercontent.com/120668199/209140982-5375d2f5-de66-49d9-911f-beeca345adaf.png)
 To manage my project I used GitHub's Project Tracker. It allows me to use the Kanban methodology to manage issues and maintain a workflow where I could continuously improve, visualise my workflow on a regular basis and sort tasks in order of priority. I used this technique to compliment my agile way of working, which is an iterative approach to software development that emphasizes flexibility, interactivity, and a high level of transparency.
 
+I followed the Agile principles and used the Scrum framework when developing this app. I worked in sprints, which is a short, time-boxed period when a team works to complete a set amount of work. This makes projects more manageable, allows teams to ship high-quality work faster and more frequently, and gives them more flexibility to adapt to change.
+
 ## Ticketing system
 
 I ensured that one requirmeent relates to one ticket that has one feature corresponding to one branch and one pull request. I assigned a reviewer, a label and pull request to each ticket. Please see below for example of my ticketing system.
@@ -38,6 +40,9 @@ I ensured that one requirmeent relates to one ticket that has one feature corres
 # Code and Design
 
 ## Technical Documentation
+
+
+ADD INSECTION TO RUN APP AND RUN TESTS LOCALLY FOR USERS
 
 * Repo name: dan-m-dec22
 * Repo link: https://github.com/EDGENortheastern/dan-m-dec22
@@ -79,4 +84,4 @@ By designing a prototype first it lets me decide on the best design for this app
 [User feedback form for design](https://docs.google.com/forms/d/e/1FAIpQLSc_W1E3jBh4tGIBv63l-5Ta9mwhvn8a4ZWe4JDVmWaEYRZEvw/viewform)
 
 
-
+# Design Evaluation
