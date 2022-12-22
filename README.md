@@ -59,6 +59,7 @@ ADD INSECTION TO RUN APP AND RUN TESTS LOCALLY FOR USERS
 
 ## Code Implementation
 
+Step-by-step guide on how I produced the MVP.
 1. In the country-list.js file I stored all country codes and the corresponding currency codes as an object.
 2. In the script.js file I created an options tags and added the currency codes inside each option tag using a for-in loop and then inserted these tags in the select tag for the drop down box.
 3. I created a function to get the user-input amount.
@@ -75,8 +76,12 @@ I have continuously ensured that the code is easily readable and understandable,
 
 [Figma Prototype](https://www.figma.com/proto/jSQexl4OPatKZwGQIM7ZG3/Currency-Converter-App?node-id=6%3A20&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A12&show-proto-sidebar=1)
 
-I designed my protopye using Figma. This software helped me design my app with ease as it is intuitive and user friendly, allows for designers and non-designers to use the software and is fun to use. By designing and agreeing on a User interface before implementation reducing costs and the need for change further down the line.
+I designed my protopye using Figma before writing any code, as the code will create the design. This software helped me design my app with ease as it is intuitive and user friendly, allows for designers and non-designers to use the software and is fun to use. By designing and agreeing on a User interface before implementation reducing costs and the need for change further down the line.
 By designing a prototype first it lets me decide on the best design for this app taking users opinions into consideration. I have created two prototype designs that I will include in a survey to users about what they prefer.
+
+
+# Testing
+
 
 
 # Stakeholder Interactions
