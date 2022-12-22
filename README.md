@@ -82,6 +82,29 @@ By designing a prototype first it lets me decide on the best design for this app
 
 # Testing
 
+## Performance and Accessibility Testing
+
+In order to analyse and/or improve the quality of the webpage, I used the Google Lighthouse tool to generate a report containing a summary of the quality of our application. Lighthouse is a free and open-source tool that can be accessed through the development console for Chromium-based browsers. I have mainly concentrated on 4 metrics which are, performance, accessibility, best practices and SEO (Search Engine Optimization).
+
+1. Performance - an aggregation of how the page progressed in aspects such as loading speed, time taken for loading basic frames and displaying meaningful content.
+2. Accessibility - an aggregation of how accessible the website is through audio captions, button names and 'aria-' attributes.
+3. Best Practices - an aggregation of many practices that have been deemed 'best' such as use of HTTPS and avoiding the use of deprecated code.
+4. SEO - an aggregation of scores in features such as meta description, presence of titles, legible font sizes.
+
+*Results*
+
+The websites performance rating of 99 suggests it is very highly optimised, meaning that the online app will offer a streamlined and smooth experience giving the user a better experience as a whole when using it. On top of this it also decreases the bounce rate of users who attempt to access the app incase it takes too long to load. Poor performance dampens the overall user experience and offers less incentive to stay.
+
+The accessibility rating of 84 is a good score and tells me that it has good search engine optimisation results and is relatively easy for each user to use the website regardless of age or disabililty. The online apps design also includes contrasting colours making it intuitive to use. Users will be able to interact with the website/app properly without any problems while accessing it.
+
+The best practices rating of 100 suggests that the online apps design is simple and easy to navigate.
+
+The search engine optimisation (SEO) rating of 92 suggests that the online app design attracts higher quality internet traffic and traffic will be directed to the website naturally without having to advertise it.
+
+
+![Lighthouse screenshot](https://user-images.githubusercontent.com/120668199/209191813-c799bff4-47ff-4514-8d38-01c99a7188a1.PNG)
+
+
 
 
 # Stakeholder Interactions
