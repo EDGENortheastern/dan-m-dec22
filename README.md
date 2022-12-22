@@ -30,7 +30,7 @@ I ensured that one requirmeent relates to one ticket that has one feature corres
 * Repo name: dan-m-dec22
 * Repo link: https://github.com/EDGENortheastern/dan-m-dec22
 * Exchange rate API link: https://www.exchangerate-api.com/
-* Country flags API link: 
+* Country flags API link: https://countryflagsapi.com/
 
 ## Files within this project
 * index.js
