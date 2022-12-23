@@ -126,7 +126,7 @@ ADD IN SECION ON TESTING HERE
 
 
 
-## Continous Intergration testing
+## Continous Intergration Testing
 
 When I commit and push code changes GitHub runs Continuous Intergration tests and provides the results of each test in the pull request, allowing me to see whether the change in my branch introduces an error. When all Continuous Intergration tests in a workflow pass, the changes I have pushed are ready to be reviewed by a team member or merged. When a test fails, one of your changes may have caused the failure. This ensure that code changes are accruate and dont cause any errors wen intergrating into the existing code base.
 
