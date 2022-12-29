@@ -124,7 +124,7 @@ The search engine optimisation (SEO) rating of 92 suggests that the online app d
 
 [User feedback form](https://docs.google.com/forms/d/e/1FAIpQLSc_W1E3jBh4tGIBv63l-5Ta9mwhvn8a4ZWe4JDVmWaEYRZEvw/viewform)
 
-Please see the link to view the two prototypes that I designed in Figma and tested with end-users. To carry out the A/B testing, I used google forms to create a survey that gets circulated to my potential users so that I can interact with my stakeholders and get their opinion. I have displayed both the designs and have attached questions to each design asking the user what design they prefer. The design with most votes from this test will be the user interface design that I will use in my project.
+Please see the link to view the two prototypes that I designed in Figma and tested with end-users. To carry out the A/B testing, I used google forms to create a survey that gets circulated to my potential users so that I can interact with my stakeholders and get their opinion. I have displayed both the designs and have attached questions to each design asking the user what design they prefer, ensuring that the questions asked do not pose any bias to the user. The design with the most votes from this test will be the user interface design that I will use in my project.
 
 I went with the first design over the second, as this was prefered by the users.
 
@@ -143,7 +143,7 @@ GitHub Actions is used to automate the testing pipeline every time code is pushe
 
 ![image](https://user-images.githubusercontent.com/120668199/209981630-2edf2792-51fe-460e-bd7e-7d49c7c7f9b8.png)
 
-
+**For additional examples of GitHub Actions click [here](https://docs.github.com/en/actions)**
 
 # Design Evaluation
 
