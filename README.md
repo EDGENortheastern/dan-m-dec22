@@ -45,23 +45,29 @@ Continuous Deployment is a strategy or methodology for software releases where a
 
 This project requires npm to execute the files, so ensure that it is installed.
 
-**1. Ensure node and npm are installed by running the following commands in your terminal:**
+### 1. Ensure node and npm are installed by running the following commands in your terminal:
+
+```sh
 node -v
+```
+```sh
 npm -v
+```
+If they are not installed, follow the steps on [npm Docs](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
-If they are not installed, follow the steps on npm Docs.
+### 2. To run end-to-end tests, please install 'serve' globally in your machine:
 
-**2. To run end-to-end tests, please install 'serve' globally in your machine:**
-
+```sh
 npm install -g serve
-
+```
 If you are getting some errors after using that command and you are on Linux/MacOS, try running it as a superuser (sudo)
 
-**3. Afterwards, clone this repo: git clone https://github.com/EDGENortheastern/dan-m-dec22**
+### 3. Afterwards, clone this repo:
 
+```sh
+git clone https://github.com/EDGENortheastern/dan-m-dec22.git
+```
 Now, you should have everything that you need to proceed! Navigate into the folder you just cloned to find our code.
-
-
 
 # Project Management
 
