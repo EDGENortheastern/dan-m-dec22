@@ -70,7 +70,7 @@ Now, you should have everything that you need to proceed! Navigate into the fold
 npm install
 ```
 
-### 3. To run logic and UI tests for our app, run the following command:
+### 3. To run logic and unit tests for our app, run the following command:
 
 ```sh
 npm test
