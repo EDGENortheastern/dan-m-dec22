@@ -41,6 +41,27 @@ Continuous Integration is the practice of automating the integration of code cha
 
 Continuous Deployment is a strategy or methodology for software releases where any new code update or change made through the rigorous automated test process is deployed directly into the live production environment, where it will be visible to customers.
 
+# User Documentation
+
+This project requires npm to execute the files, so ensure that it is installed.
+
+**1. Ensure node and npm are installed by running the following commands in your terminal:**
+node -v
+npm -v
+
+If they are not installed, follow the steps on npm Docs.
+
+**2. To run end-to-end tests, please install 'serve' globally in your machine:**
+
+npm install -g serve
+
+If you are getting some errors after using that command and you are on Linux/MacOS, try running it as a superuser (sudo)
+
+**3. Afterwards, clone this repo: git clone https://github.com/EDGENortheastern/dan-m-dec22**
+
+Now, you should have everything that you need to proceed! Navigate into the folder you just cloned to find our code.
+
+
 
 # Project Management
 
@@ -79,15 +100,12 @@ I ensured that one requirement relates to one ticket that has one feature corres
 * logic.js
 * package.json
 
-## User Documentation
+## User End Links
 
 * Repo name: dan-m-dec22
 * Repo link: https://github.com/EDGENortheastern/dan-m-dec22
 * Exchange rate API link: https://www.exchangerate-api.com/
 * Country flags API link: https://countryflagsapi.com/
-
-
-
 
 ## Code Implementation
 
