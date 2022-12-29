@@ -138,6 +138,13 @@ ADD IN SECION ON TESTING HERE
 
 When I commit and push code changes GitHub runs Continuous Intergration tests and provides the results of each test in the pull request, allowing me to see whether the change in my branch introduces an error. When all Continuous Intergration tests in a workflow pass, the changes I have pushed are ready to be reviewed by a team member or merged. When a test fails, one of your changes may have caused the failure. This ensure that code changes are accruate and dont cause any errors wen intergrating into the existing code base.
 
+## GitHub Actions
+GitHub Actions is used to automate the testing pipeline every time code is pushed or a request is made. This allowed me to create workflows that build and test every pull request to the repository, or deploy my merged pull requests to production. GitHub Actions also helped improve my workflow by automatically adding the appropriate labels.
+
+![image](https://user-images.githubusercontent.com/120668199/209981297-897b2f78-e904-4e3c-b7a7-a7cc86fa8d3f.png)
+
+For additional examples of GitHub Actions click here
+
 
 # Design Evaluation
 
