@@ -69,7 +69,9 @@ git clone https://github.com/EDGENortheastern/dan-m-dec22.git
 ```
 Now, you should have everything that you need to proceed! Navigate into the folder you just cloned to find our code.
 
-### 1. Before trying out any of the next commands:
+## Running all tests
+
+## Before running any code below, make sure npm is intalled.
 
 ```sh
 npm install
