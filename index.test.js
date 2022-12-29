@@ -1,5 +1,8 @@
-const {convertToNum} = require('./logic.js');
-const {convertCurrency} = require('./logic.js');
+import {
+    convertToNum,
+    convertCurrency
+} from './logic.js';
+
 
 test("That jest is working",()=>{
     expect(2+2).toBe(4)
