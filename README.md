@@ -167,7 +167,7 @@ For testing the logic of my website I used nodes testing library, Jest. Jest (st
 
 I have used jest to run unit tests on my code. Unit testing ensures that all code meets quality standards before it's deployed. This ensures a reliable engineering environment where quality is paramount. Over the course of the product development life cycle, unit testing saves time and money, and helps developers write better code, more efficiently.
 
-Please see below for all the unit tests passing.
+Please see below for all the unit tests and code coverage tests passing.
 
 ![passed tests screenshot](https://user-images.githubusercontent.com/120668199/210021982-6e7156cf-0ac6-4c48-9202-748561007048.PNG)
 
