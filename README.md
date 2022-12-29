@@ -89,7 +89,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 npm test -- --coverage --watchAll=false
 ```
 
-
 # Project Management
 
 ![Project Management screenshot](https://user-images.githubusercontent.com/120668199/209140982-5375d2f5-de66-49d9-911f-beeca345adaf.png)
@@ -159,6 +158,11 @@ By designing a prototype first it lets me decide on the best design for this app
 
 
 # Testing
+
+## Tesitng Logic
+
+For testing the logic of my website I used nodes testing library, Jest. Jest (standalone) is utilised to test the logic of the application, this is because Jest is a javascript testing framework designed with simplicity in mind and supports projects coded in different ways, including node, making Jest an ideal testing framework for my project. Using Jest, I produced testing blocks that lead to 100% code coverage within a short period of time. Using Jest is beneficial for this project because unit testing using Jest allows me to make my project more agile as we are already confident that the code we have will not break easily as we've found and prevented bugs earlier in the development cycle.
+
 
 ## Performance and Accessibility Testing
 
