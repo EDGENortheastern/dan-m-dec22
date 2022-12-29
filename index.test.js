@@ -20,7 +20,7 @@ test("That function convertCurrency is accurate",()=>{
     expect(convertCurrency("2", "2")).toBe("4.00");
     expect(convertCurrency("1000", "1.30")).toBe("1300.00");
 });
-test('adding works sanely with decimals', () => {
+test('Adding is correct with decimals', () => {
     expect(parseFloat(convertCurrency("1000.567", "0.57"))).toBeCloseTo(parseFloat("570.32"));
     expect(parseFloat(convertCurrency("547.405832", "0.11"))).toBeCloseTo(parseFloat("60.21"));
 });
