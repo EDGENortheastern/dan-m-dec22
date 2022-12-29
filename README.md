@@ -51,6 +51,11 @@ I ensured that one requirement relates to one ticket that has one feature corres
 
 ## Technical Documentation
 
+## Technical Stack
+* [HMTL](https://devdocs.io/html/)
+* [CSS](https://devdocs.io/css/)
+* [JS](https://devdocs.io/javascript/)
+* [jest](https://jestjs.io/docs/getting-started)
 
 ADD INSECTION TO RUN APP AND RUN TESTS LOCALLY FOR USERS
 
