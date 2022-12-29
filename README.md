@@ -141,9 +141,8 @@ When I commit and push code changes GitHub runs Continuous Intergration tests an
 ## GitHub Actions
 GitHub Actions is used to automate the testing pipeline every time code is pushed or a request is made. This allowed me to create workflows that build and test every pull request to the repository, or deploy my merged pull requests to production. GitHub Actions also helped improve my workflow by automatically adding the appropriate labels.
 
-![image](https://user-images.githubusercontent.com/120668199/209981297-897b2f78-e904-4e3c-b7a7-a7cc86fa8d3f.png)
+![image](https://user-images.githubusercontent.com/120668199/209981630-2edf2792-51fe-460e-bd7e-7d49c7c7f9b8.png)
 
-For additional examples of GitHub Actions click here
 
 
 # Design Evaluation
