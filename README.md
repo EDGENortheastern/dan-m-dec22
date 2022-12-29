@@ -59,13 +59,19 @@ ADD INSECTION TO RUN APP AND RUN TESTS LOCALLY FOR USERS
 * Exchange rate API link: https://www.exchangerate-api.com/
 * Country flags API link: https://countryflagsapi.com/
 
-## Files within this project
+## Files to run the app
 
 * index.js
 * country-list.js
 * index.html
 * index.css
 * launch.json
+
+## Files used in testing
+
+* index.test.js
+* logic.js
+* package.json
 
 ## Code Implementation
 
