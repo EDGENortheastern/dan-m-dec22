@@ -163,6 +163,14 @@ By designing a prototype first it lets me decide on the best design for this app
 
 For testing the logic of my website I used nodes testing library, Jest. Jest (standalone) is utilised to test the logic of the application, this is because Jest is a javascript testing framework designed with simplicity in mind and supports projects coded in different ways, including node, making Jest an ideal testing framework for my project. Using Jest, I produced testing blocks that lead to 100% code coverage within a short period of time. Using Jest is beneficial for this project because unit testing using Jest allows me to make my project more agile as we are already confident that the code we have will not break easily as we've found and prevented bugs earlier in the development cycle.
 
+## Unit Testing 
+
+I have used jest to run unit tests on my code. Unit testing ensures that all code meets quality standards before it's deployed. This ensures a reliable engineering environment where quality is paramount. Over the course of the product development life cycle, unit testing saves time and money, and helps developers write better code, more efficiently.
+
+Please see below for all the unit tests passing.
+
+![passed tests screenshot](https://user-images.githubusercontent.com/120668199/210021982-6e7156cf-0ac6-4c48-9202-748561007048.PNG)
+
 
 ## Performance and Accessibility Testing
 
