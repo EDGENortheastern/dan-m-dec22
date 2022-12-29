@@ -5,6 +5,8 @@ For Northeastern University
 
 # Currency Converter App
 
+[![codecov](https://codecov.io/gh/EDGENortheastern/dan-m-dec22/branch/main/graph/badge.svg?token=U9VzDbOBrF)](https://codecov.io/gh/EDGENortheastern/dan-m-dec22)
+
 ## About
 
 Author: Daniel Mayers
