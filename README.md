@@ -23,7 +23,7 @@ The Currency Converter App is an application that allows the user to convert any
 
 **Reason for creating the app**
 
-Providing user with real-time excahgne rates is something that my worjplace desires as we currently have a day lag with our exchange rates, meaning that currency conversion calculations are always correct for the previous day. This app solves this problem and ensures that any currnecy conversion via this app will be highly accurate and in real-time. This can pose many benefits, some which include:
+Providing users with real-time exchange rates is something that my workplace desires as we currently have a day lag with our exchange rates, meaning that currency conversion calculations are always correct for the previous day. This app solves this problem and ensures that any currency conversion via this app will be highly accurate and in real-time. This can pose many benefits, some which include:
 * More efficiency due to real-time answers
 * More Accurate results as data comes from a real-time API and not a fixed daily value
 * Rely less on certain systems are liable to breaking
