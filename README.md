@@ -69,6 +69,32 @@ git clone https://github.com/EDGENortheastern/dan-m-dec22.git
 ```
 Now, you should have everything that you need to proceed! Navigate into the folder you just cloned to find our code.
 
+### 1. Before trying out any of the next commands:
+
+```sh
+npm install
+```
+
+### 2. To run logic and UI tests for our app, run the following command:
+
+```sh
+npm test
+```
+```sh
+a
+```
+
+Clicking on the 'a' key runs all tests (excluding End-to-End tests).
+
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### 3. To view full tests and code coverage for the code:
+
+```sh
+npm test -- --coverage --watchAll=false
+```
+
+
 # Project Management
 
 ![Project Management screenshot](https://user-images.githubusercontent.com/120668199/209140982-5375d2f5-de66-49d9-911f-beeca345adaf.png)
