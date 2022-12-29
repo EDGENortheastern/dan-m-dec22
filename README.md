@@ -21,6 +21,14 @@ The Currency Converter App is an application that allows the user to convert any
 * User can switch the conversion by selecting the arrow in between the to and from box
 * A clickable button that displays the conversion amount
 
+**Reason for creating the app**
+
+Providing user with real-time excahgne rates is something that my worjplace desires as we currently have a day lag with our exchange rates, meaning that currency conversion calculations are always correct for the previous day. This app solves this problem and ensures that any currnecy conversion via this app will be highly accurate and in real-time. This can pose many benefits, some which include:
+* More efficiency due to real-time answers
+* More Accurate results as data comes from a real-time API and not a fixed daily value
+* Rely less on certain systems are liable to breaking
+* Less collaboration with people who provide us with daily rates
+* Use as a measure of accuracy for daily rates reporting
 
 # Deployed App
 
@@ -57,14 +65,7 @@ I ensured that one requirement relates to one ticket that has one feature corres
 * [JS](https://devdocs.io/javascript/)
 * [jest](https://jestjs.io/docs/getting-started)
 
-ADD INSECTION TO RUN APP AND RUN TESTS LOCALLY FOR USERS
-
-* Repo name: dan-m-dec22
-* Repo link: https://github.com/EDGENortheastern/dan-m-dec22
-* Exchange rate API link: https://www.exchangerate-api.com/
-* Country flags API link: https://countryflagsapi.com/
-
-## Files to run the app
+## Files used to run the app
 
 * index.js
 * country-list.js
@@ -77,6 +78,16 @@ ADD INSECTION TO RUN APP AND RUN TESTS LOCALLY FOR USERS
 * index.test.js
 * logic.js
 * package.json
+
+## User Documentation
+
+* Repo name: dan-m-dec22
+* Repo link: https://github.com/EDGENortheastern/dan-m-dec22
+* Exchange rate API link: https://www.exchangerate-api.com/
+* Country flags API link: https://countryflagsapi.com/
+
+
+
 
 ## Code Implementation
 
