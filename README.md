@@ -55,14 +55,7 @@ npm -v
 ```
 If they are not installed, follow the steps on [npm Docs](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
-### 2. To run end-to-end tests, please install 'serve' globally in your machine:
-
-```sh
-npm install -g serve
-```
-If you are getting some errors after using that command and you are on Linux/MacOS, try running it as a superuser (sudo)
-
-### 3. Afterwards, clone this repo:
+### 2. Afterwards, clone this repo:
 
 ```sh
 git clone https://github.com/EDGENortheastern/dan-m-dec22.git
@@ -71,13 +64,13 @@ Now, you should have everything that you need to proceed! Navigate into the fold
 
 ## Running all tests
 
-## Before running any code below, make sure npm is intalled.
+### Before running any code below, make sure npm is intalled.
 
 ```sh
 npm install
 ```
 
-### 2. To run logic and UI tests for our app, run the following command:
+### 3. To run logic and UI tests for our app, run the following command:
 
 ```sh
 npm test
@@ -90,7 +83,7 @@ Clicking on the 'a' key runs all tests (excluding End-to-End tests).
 
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### 3. To view full tests and code coverage for the code:
+### 4. To view full tests and code coverage for the code:
 
 ```sh
 npm test -- --coverage --watchAll=false
