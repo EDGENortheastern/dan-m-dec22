@@ -39,7 +39,7 @@ Continuous Deployment is a strategy or methodology for software releases where a
 ![Project Management screenshot](https://user-images.githubusercontent.com/120668199/209140982-5375d2f5-de66-49d9-911f-beeca345adaf.png)
 To manage my project, I used GitHub's Project Tracker. It allows me to use the Kanban methodology to manage issues and maintain a workflow where I could continuously improve, visualise my workflow on a regular basis and sort tasks in order of priority. I used this technique to compliment my agile way of working, which is an iterative approach to software development that emphasizes flexibility, interactivity, and a high level of transparency.
 
-I followed the Agile principles and used the Scrum framework when developing this app. I worked in sprints, which is a short, time-boxed period when a team works to complete a set amount of work. This makes projects more manageable, allows teams to ship high-quality work faster and more frequently, and gives them more flexibility to adapt to change.
+I followed the **Agile** principles and used the **Scrum** framework when developing this app. I worked in sprints, which is a short, time-boxed period when a team works to complete a set amount of work. This makes projects more manageable, allows teams to ship high-quality work faster and more frequently, and gives them more flexibility to adapt to change.
 
 ## Ticketing system
 
@@ -108,7 +108,7 @@ In order to analyse and/or improve the quality of the webpage, I used the Google
 3. Best Practices - an aggregation of many practices that have been deemed 'best' such as use of HTTPS and avoiding the use of deprecated code.
 4. SEO - an aggregation of scores in features such as meta description, presence of titles, legible font sizes.
 
-*Results*
+**Results**
 
 The websites performance rating of 99 suggests it is very highly optimised, meaning that the online app will offer a streamlined and smooth experience giving the user a better experience as a whole when using it. On top of this it also decreases the bounce rate of users who attempt to access the app incase it takes too long to load. Poor performance dampens the overall user experience and offers less incentive to stay.
 
