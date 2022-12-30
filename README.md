@@ -98,7 +98,7 @@ I followed the **Agile** principles and used the **Scrum** framework when develo
 
 ## Ticketing system
 
-I ensured that one requirement relates to one ticket that has one feature corresponding to one branch and one pull request. I assigned a reviewer, a label and pull request to each ticket. Please see below for example of my ticketing system.
+I ensured that one requirement relates to one ticket that has one feature corresponding to one branch and one pull request. I assigned a reviewer, a label and pull request to each ticket. I created some labels myself to suit the issue better, such as; testing, documentation, feature and exploration. Please see below for example of my ticketing system.
 ![image](https://user-images.githubusercontent.com/120668199/209148507-e3d8bc9a-b71e-4023-831f-0a62c9c5316a.png)
 
 
