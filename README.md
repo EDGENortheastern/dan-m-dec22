@@ -64,13 +64,13 @@ Now, you should have everything that you need to proceed! Navigate into the fold
 
 ## Running all tests
 
-### Before running any code below, make sure npm is installed.
+### 3. Before running any code below, make sure npm is installed.
 
 ```sh
 npm install
 ```
 
-### 3. To run logic and unit tests for our app, run the following command:
+### 4. To run logic and unit tests for our app, run the following command:
 
 ```sh
 npm test
@@ -83,7 +83,7 @@ Clicking on the 'a' key runs all tests (excluding End-to-End tests).
 
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### 4. To view full tests and code coverage for the code:
+### 5. To view full tests and code coverage for the code:
 
 ```sh
 npm test -- --coverage --watchAll=false
