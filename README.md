@@ -64,7 +64,7 @@ Now, you should have everything that you need to proceed! Navigate into the fold
 
 ## Running all tests
 
-### Before running any code below, make sure npm is intalled.
+### Before running any code below, make sure npm is installed.
 
 ```sh
 npm install
@@ -159,7 +159,7 @@ By designing a prototype first it lets me decide on the best design for this app
 
 # Testing
 
-## Tesitng Logic
+## Testing Logic
 
 For testing the logic of my website I used nodes testing library, Jest. Jest (standalone) is utilised to test the logic of the application, this is because Jest is a javascript testing framework designed with simplicity in mind and supports projects coded in different ways, including node, making Jest an ideal testing framework for my project. Using Jest, I produced testing blocks that lead to 100% code coverage within a short period of time. Using Jest is beneficial for this project because unit testing using Jest allows me to make my project more agile as we are already confident that the code we have will not break easily as we've found and prevented bugs earlier in the development cycle.
 
@@ -199,11 +199,11 @@ The search engine optimisation (SEO) rating of 92 suggests that the online app d
 
 Please see the link to view the two prototypes that I designed in Figma and tested with end-users. To carry out the A/B testing, I used google forms to create a survey that gets circulated to my potential users so that I can interact with my stakeholders and get their opinion. I have displayed both the designs and have attached questions to each design asking the user what design they prefer, ensuring that the questions asked do not pose any bias to the user. The design with the most votes from this test will be the user interface design that I will use in my project.
 
-I went with the first design over the second, as this was prefered by the users.
+I went with the first design over the second, as this was preferred by the users.
 
-## Continous Intergration Testing
+## Continuous Integration Testing
 
-When I commit and push code changes GitHub runs Continuous Intergration tests and provides the results of each test in the pull request, allowing me to see whether the change in my branch introduces an error. When all Continuous Intergration tests in a workflow pass, the changes I have pushed are ready to be reviewed by a team member or merged. When a test fails, one of your changes may have caused the failure. This ensure that code changes are accruate and dont cause any errors wen intergrating into the existing code base.
+When I commit and push code changes GitHub runs Continuous Integration tests and provides the results of each test in the pull request, allowing me to see whether the change in my branch introduces an error. When all Continuous Integration tests in a workflow pass, the changes I have pushed are ready to be reviewed by a team member or merged. When a test fails, one of your changes may have caused the failure. This ensure that code changes are accurate and do not cause any errors when integrating into the existing code base.
 
 ## GitHub Actions
 GitHub Actions is used to automate the testing pipeline every time code is pushed or a request is made. This allowed me to create workflows that build and test every pull request to the repository, or deploy my merged pull requests to production. GitHub Actions also helped improve my workflow by automatically adding the appropriate labels.
