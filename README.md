@@ -172,7 +172,7 @@ I have used Jest to run unit tests on my code. Unit testing ensures that all cod
 
 Please see below for all the unit tests and code coverage tests passing.
 
-![passed tests screenshot](https://user-images.githubusercontent.com/120668199/210141585-1f94cbb6-a5bc-4dae-b176-d459e4ef153c.PNG)
+![passed tests screenshot](https://user-images.githubusercontent.com/120668199/210143194-32b0e759-1999-4e53-a353-49338d2d3a3e.PNG)
 
 
 ## Performance and Accessibility Testing
