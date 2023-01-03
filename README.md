@@ -210,7 +210,7 @@ When I commit and push code changes GitHub runs Continuous Integration tests and
 
 ## GitHub Actions
 
-GitHub Actions is used to automate the testing pipeline every time code is pushed or a request is made. This allowed me to create workflows that build and test every pull request to the repository, or deploy my merged pull requests to production. GitHub Actions also helped improve my workflow by automatically adding the appropriate labels.
+GitHub Actions is designed to help simplify workflows with flexible automation and offer easy-to-use CI/CD capabilities built by developers for developers and is used to automate the testing pipeline every time code is pushed or a request is made. This allowed me to create workflows that build and test every pull request to the repository, or deploy my merged pull requests to production. GitHub Actions also helped improve my workflow by automatically adding the appropriate labels.
 
 ![image](https://user-images.githubusercontent.com/120668199/209981630-2edf2792-51fe-460e-bd7e-7d49c7c7f9b8.png)
 
