@@ -107,13 +107,13 @@ I ensured that one requirement relates to one ticket that has one feature corres
 
 ## Technical Documentation
 
-## Technical Stack
+### Technical Stack
 * [HMTL](https://devdocs.io/html/)
 * [CSS](https://devdocs.io/css/)
 * [JS](https://devdocs.io/javascript/)
 * [jest](https://jestjs.io/docs/getting-started)
 
-## Files used to run the app
+### Files used to run the app
 
 * index.js
 * country-list.js
@@ -121,13 +121,13 @@ I ensured that one requirement relates to one ticket that has one feature corres
 * index.css
 * launch.json
 
-## Files used in testing
+### Files used in testing
 
 * index.test.js
 * logic.js
 * package.json
 
-## User End Links
+### User End Links
 
 * Repo name: dan-m-dec22
 * Repo link: https://github.com/EDGENortheastern/dan-m-dec22
